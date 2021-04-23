@@ -125,63 +125,15 @@ SOFTWARE & IDE’S
 
  
 
+![image](https://user-images.githubusercontent.com/71435868/115917131-64030780-a493-11eb-8e63-cdc5356d396f.png)
  
 
- 
 
  
 
- 
-
-   API NAME 
-
-                            URL 
-
-  METHOD 
-
-login.js 
-
-http://103.154.233.231:8080/login 
-
-POST 
-
-register.js 
-
-http://103.154.233.231:8080/register 
-
-POST 
-
-foodDisplay.js 
-
-http://103.154.233.231:8080/foodDisplay 
-
-GET 
-
-foodOrder.js 
-
-http://103.154.233.231:8080/foodOrder 
-
-POST 
-
-foodUpload.js 
-
-http://103.154.233.231:8080/foodUpload 
-
-POST 
-
-myOrders.js 
-
-http://103.154.233.231:8080/myOrders.js 
-
-POST 
-
-myUploads.js 
-
-http://103.154.233.231:8080/myUploads.js 
-
-POST 
 
  
+
 
  
 
