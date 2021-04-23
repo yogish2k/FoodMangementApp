@@ -1,19 +1,19 @@
 # FoodMangementApp
  
-TABLE OF CONTENTS 
+  # TABLE OF CONTENTS 
 
 
-(1) DESCRIPTION 
+    (1) DESCRIPTION 
 
-(2) PROGRAMMING LANGUAGES  
+    (2) PROGRAMMING LANGUAGES  
 
-(3) SOFTWARE & IDE’S 
+    (3) SOFTWARE & IDE’S 
 
-(4) API 
+    (4) API 
 
-(5) ANDROID STUDIO CODE 
+    (5) ANDROID STUDIO CODE 
 
-(6) XML LAYOUT AND ACTIVITY 
+    (6) XML LAYOUT AND ACTIVITY 
 
   
 
@@ -38,44 +38,45 @@ TABLE OF CONTENTS
 Heads up People! We found the solution to use the food resources efficiently using this app 
 
  
- APP: EASY FOOD 
+    APP: EASY FOOD 
 
- Mode: Individual User (Enterprise not supported) 
+    Mode: Individual User (Enterprise not supported) 
 
- App Source Platform: Google Play Store 
+    App Source Platform: Google Play Store 
 
- Software Supported: Android (Minimum API:21, Android KitKat (2013)) 
+    Software Supported: Android (Minimum API:21, Android KitKat (2013)) 
 
   
 *Note using the app on below recommended Android version can lead to errors and some functionality may not work as it intended to be causing the app to terminate itself.   
 
 
-###  
+ 
  # PROGRAMMING LANGUAGES 
 
- The app is written using below languages based on their functionality and purpose to aid rich interface and experience to the user. 
+    The app is written using below languages based on their functionality and purpose to aid rich interface and experience to the user. 
 
  
 
   # NODE.js  
 
-  Cross-platform, back-end JavaScript runtime environment that runs on the V8 engine to get the response from UI. Also helpful in creating custom Application Programming Interface known as ‘API’s’. 
+    Cross-platform, back-end JavaScript runtime environment that runs on the V8 engine to get the response from UI. Also helpful in creating custom Application Programming       Interface known as ‘API’s’. 
 
  
 
   # ORACLE MYSQL  
 
- For queries and searching the data in the user database and back-end computing. It also creates a data base for user after signing in to the app. 
+    For queries and searching the data in the user database and back-end computing. It also creates a data base for user after signing in to the app. 
 
  
 
    # KOTLIN  
 
- Because of its interoperability and cross-platform with many frameworks and JDK library. It runs at back-end to compile the code faster after user interacts with UI buttons or layouts. It also consists of “VOLLEY” library to call the API’s.  
+    Because of its interoperability and cross-platform with many frameworks and JDK library. It runs at back-end to compile the code faster after user interacts with UI           buttons or layouts. It also consists of “VOLLEY” library to call the API’s.  
 
  
-
-XML – To design the Graphical User Interface (GUI) of the app. 
+  # XML
+  
+    To design the Graphical User Interface (GUI) of the app. 
 
     
 
@@ -87,25 +88,26 @@ SOFTWARE & IDE’S
 
  # VS CODE: 
 
- source-code editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git. We used this tool to make API’s using node.js. 
+    source-code editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets,         code refactoring, and embedded Git. We used this tool to make API’s using node.js. 
 
  
 
  # ANDROID STUDIO: 
 
- It is the official IDE for developing Android applications. Because of its vast features like visual layout editor, APK analyzer, fast emulator, Intelligent code editor, flexible build system, Real time profilers, and jetpack tool support makes developers easy to change the preferences based on their activity or application they want to create. This also includes KOTLIN plug-in type as in-built to Android Studio. 
+    It is the official IDE for developing Android applications. Because of its vast features like visual layout editor, APK analyzer, fast emulator, Intelligent code editor,     flexible build system, Real time profilers, and jetpack tool support makes developers easy to change the preferences based on their activity or application they want to       create. This also includes KOTLIN plug-in type as in-built to Android Studio. 
 
  
 
  # XAMPP:  
-
- Consists of Apache HTTP server, Maria DB database and also used to perform local test server. 
+ 
+    Consists of Apache HTTP server, Maria DB database and also used to perform local test server. 
 
  
 
  # MySQL Workbench 8.0 CE: 
-
- A visual database design tool that integrates SQL development, administration, database design, creation and maintenance into a single integrated development environment for the MySQL database system. We used this to host the server where we can upload API’s and can be called using VOLLEY library in Android Studio. 
+     
+    A visual database design tool that integrates SQL development, administration, database design, creation and maintenance into a single integrated development environment
+    for the MySQL database system. We used this to host the server where we can upload API’s and can be called using VOLLEY library in Android Studio. 
 
 ## 4. API
 
@@ -121,19 +123,16 @@ SOFTWARE & IDE’S
 
     Multi-platform development.  
 
- REST CURL SIMPLE REQUEST URL: http://localhost:8080/api/users/1  Method: POST Content-Type: application/json REQUEST. 
+    REST CURL SIMPLE REQUEST URL: http://localhost:8080/api/users/1  Method: POST Content-Type: application/json REQUEST. 
 
- 
-
-![image](https://user-images.githubusercontent.com/71435868/115917131-64030780-a493-11eb-8e63-cdc5356d396f.png)
- 
 
 
  
+![API_TABLE_EasyFoodApp](https://user-images.githubusercontent.com/71435868/115917868-66199600-a494-11eb-9d7f-f311a97a63c1.png)
 
 
  
-
+ 
 
  
 
