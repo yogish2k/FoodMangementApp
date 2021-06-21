@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:orientation="horizontal"
+        tools:ignore="UselessParent">
+
+        <ImageView
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:id="@+id/imgId"
+            tools:src = "@drawable/logo"
+            android:scaleType="fitCenter"
+            android:layout_marginEnd="10dp"
+            android:contentDescription="@string/the_easy_food" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="130dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/uploadername"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                android:textSize="28dp"
+                tools:text="Yogish" />
+
+            <TextView
+                android:id="@+id/foodname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                android:textSize="16dp"
+                tools:text="Singamsetty" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
